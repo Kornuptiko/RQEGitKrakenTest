@@ -1,7 +1,3 @@
 Version 1
 Version 2
-<<<<<<< HEAD
 Version 3 IntegrationsphaseTest
-=======
-Version 3 IntegrationsKonfliktphase
->>>>>>> main
